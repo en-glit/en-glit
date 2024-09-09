@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on any project that relates to cloud computing, Data analysis and Digital Marketing.
 - 📫 Contact me via email at kandagornaomi@gmail.com.
-- 😄 Pronouns: Neiomi, Nay, Nashmi, Nommy...
+- 😄 Pronouns: she
 - ⚡ Fun fact: I love country life.
 
 <!---
