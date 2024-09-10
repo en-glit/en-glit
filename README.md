@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any project that relates to cloud computing, Data analysis and Digital Marketing.
 - 📫 Contact me via email at kandagornaomi@gmail.com.
 - 😄 Pronouns: she
-- ⚡ Fun fact: I love country life.
+- ⚡ Fun fact: when I was a little kid I wanted to grow up and be a doctor
 
 <!---
 en-glit/en-glit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
